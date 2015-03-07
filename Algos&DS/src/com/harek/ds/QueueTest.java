@@ -14,7 +14,7 @@ public class QueueTest {
         String input = in.readLine().trim();
         int testCases = Integer.parseInt(input);
 
-        Queue queue = new Queue();
+        ArrayQueue queue = new ArrayQueue();
         while (testCases-- > 0) {
             input = in.readLine().trim();
             queue.enqueue(input);

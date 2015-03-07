@@ -13,7 +13,7 @@ public class StackTest {
         String input = in.readLine().trim();
         int testCases = Integer.parseInt(input);
 
-        Stack stack = new Stack();
+        ArrayStack stack = new ArrayStack();
         while (testCases-- > 0) {
             input = in.readLine().trim();
             stack.push(input);
