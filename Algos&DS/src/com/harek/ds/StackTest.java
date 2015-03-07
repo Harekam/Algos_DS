@@ -1,4 +1,4 @@
-package com.harek.sorting;
+package com.harek.ds;
 
 import java.io.BufferedReader;
 import java.io.IOException;

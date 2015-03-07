@@ -1,4 +1,4 @@
-package com.harek.sorting;
+package com.harek.ds;
 
 /**
  * Created harekam by in on 03/06/2015.
